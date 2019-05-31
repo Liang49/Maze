@@ -1,5 +1,7 @@
 # Maze Game
 
+Live Demo https://liang49.github.io/Maze/
+
 A maze game created using javscript where the player is able to move their character throughout the maze.
 
 ## Getting started
